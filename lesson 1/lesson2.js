@@ -123,7 +123,7 @@ else if (day <=20){
 else if (day <=31){
     console.log('Третя декада')
 }
-else if (day >=32){
+else if (day >=32) {
     console.log('Введіть число від 1 до 31!')
 }
 
