@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="825a7ce3-bf76-4f77-a19b-c300bb4171b1" name="Changes" comment="дз 31.01">
+      <change afterPath="$PROJECT_DIR$/lesson 1/lesson 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson 1/lesson2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 1/lesson 1 html.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 1/lesson 1 html.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson 1/lesson1JS.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 1/lesson1JS.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +24,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="508f787e-ba06-40b4-be31-955443bc3420" />
+        <option name="url" value="https://github.com/Oplottt/OptovetsHomeworkJS.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -64,7 +77,8 @@
       <workItem from="1675196649045" duration="254000" />
       <workItem from="1675196915826" duration="2000" />
       <workItem from="1675196957518" duration="1582000" />
-      <workItem from="1675199115166" duration="2905000" />
+      <workItem from="1675199115166" duration="3259000" />
+      <workItem from="1675454773653" duration="6555000" />
     </task>
     <task id="LOCAL-00001" summary="дз 31.01">
       <created>1675198517556</created>
@@ -73,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675198517556</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="дз 31.01">
+      <created>1675202360295</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675202360295</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
