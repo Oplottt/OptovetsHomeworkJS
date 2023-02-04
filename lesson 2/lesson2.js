@@ -169,8 +169,7 @@ else if (b===c){
 
 
 let x = 5;
-x === false?
-    console.log(x = 'default'):
+x = x || "default"
     console.log(x)
 
 
