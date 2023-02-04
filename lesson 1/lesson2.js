@@ -86,8 +86,8 @@ console.log(users[9].password);
 
 
 
-let x = 5;
-if (x!==0) {
+let a = 7;
+if (a!==0) {
    console.log ('Вірно')
 }
 else {
@@ -126,4 +126,104 @@ else if (day <=31){
 else if (day >=32) {
     console.log('Введіть число від 1 до 31!')
 }
+let weekday = +prompt( 'Введіть порядковий номер дня тижня' );
+switch (weekday){
+    case 1:
+        console.log('Monday')
+        break;
+    case 2:
+        console.log('Tuesday')
+        break;
+    case 3:
+        console.log('Wednesday')
+        break;
+    case 4:
+        console.log('Thursday')
+        break;
+    case 5:
+        console.log('Friday')
+        break;
+    case 6:
+        console.log('Saturday')
+        break;
+    case 7:
+        console.log('Sunday')
+        break;
+    default:
+        console.log('Введіть порядковий номер тижня від 1 до 7!');
+}
+
+
+
+let b = +prompt ('Введіть перше число')
+let c = +prompt ('Введіть друге число')
+if (b>c) {
+    console.log(b)
+}
+else if (c>b) {
+    console.log(c)
+}
+else if (b===c){
+    console.log('Числа рівні')
+}
+
+
+let x = 5;
+x === false?
+    console.log(x = 'default'):
+    console.log(x)
+
+
+
+
+{
+    let coursesAndDurationArray = [
+        {title: 'JavaScript Complex', monthDuration: 5},
+        {title: 'Java Complex', monthDuration: 6},
+        {title: 'Python Complex', monthDuration: 6},
+        {title: 'QA Complex', monthDuration: 4},
+        {title: 'FullStack', monthDuration: 7},
+        {title: 'Frontend', monthDuration: 4}
+    ];
+
+
+    if (coursesAndDurationArray[0].monthDuration > 5){
+        console.log('Super!')
+    }
+    else{
+        console.log('NotSuper!')
+    }
+    if (coursesAndDurationArray[1].monthDuration > 5){
+        console.log('Super!')
+    }
+    else{
+        console.log('NotSuper!')
+    }
+    if (coursesAndDurationArray[2].monthDuration > 5){
+        console.log('Super!')
+    }
+    else{
+        console.log('NotSuper!')
+    }
+    if (coursesAndDurationArray[3].monthDuration > 5){
+        console.log('Super!')
+    }
+    else{
+        console.log('NotSuper!')
+    }
+    if (coursesAndDurationArray[4].monthDuration > 5){
+        console.log('Super!')
+    }
+    else{
+        console.log('NotSuper!')
+    }
+    if (coursesAndDurationArray[5].monthDuration > 5){
+        console.log('Super!')
+    }
+    else{
+        console.log('NotSuper!')
+    }
+}
+
+
 
