@@ -88,7 +88,7 @@ console.log(users[9].password);
 
 let a = 7;
 if (a!==0) {
-   console.log ('Вірно')
+    console.log ('Вірно')
 }
 else {
     console.log('Невірно')
@@ -224,6 +224,3 @@ x === false?
         console.log('NotSuper!')
     }
 }
-
-
-
